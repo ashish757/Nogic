@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Nogic/static/css/main.68b096d1.chunk.css",
+    "main.js": "/Nogic/static/js/main.157f6a41.chunk.js",
+    "main.js.map": "/Nogic/static/js/main.157f6a41.chunk.js.map",
+    "runtime-main.js": "/Nogic/static/js/runtime-main.2ab45e34.js",
+    "runtime-main.js.map": "/Nogic/static/js/runtime-main.2ab45e34.js.map",
+    "static/js/2.9ed03c3f.chunk.js": "/Nogic/static/js/2.9ed03c3f.chunk.js",
+    "static/js/2.9ed03c3f.chunk.js.map": "/Nogic/static/js/2.9ed03c3f.chunk.js.map",
+    "index.html": "/Nogic/index.html",
+    "static/css/main.68b096d1.chunk.css.map": "/Nogic/static/css/main.68b096d1.chunk.css.map",
+    "static/js/2.9ed03c3f.chunk.js.LICENSE.txt": "/Nogic/static/js/2.9ed03c3f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ab45e34.js",
+    "static/js/2.9ed03c3f.chunk.js",
+    "static/css/main.68b096d1.chunk.css",
+    "static/js/main.157f6a41.chunk.js"
+  ]
+}
